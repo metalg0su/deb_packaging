@@ -1,0 +1,10 @@
+Package: test-my-pack
+Version: 0.0.1
+Section: devel
+Priority: optional
+Architecture: all
+Depends: 
+Recommends: 
+Maintainer: metalg0su <metalg0su@gmail.com>
+Homepage: 
+Description: package studies
